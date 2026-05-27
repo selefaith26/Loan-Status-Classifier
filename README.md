@@ -1,3 +1,3 @@
 # Loan Status Classifier
 
-[View Full Technical Report](loan_report.md)
+[View Full Technical Report](Loan_Report.md)
